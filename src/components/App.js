@@ -14,7 +14,6 @@ import React, { useState, useEffect } from 'react';
 import Indiamap from './Indiamap';
 import Mapvar from './Mapvar';
 import Graph from './Graph';
-import '../styles/App.css';
 import viruspair from './viruspair.svg';
 import { CssBaseline, Container, Grid, Typography, Paper, Button } from '@material-ui/core';
 import mapDataIN from "@highcharts/map-collection/countries/in/in-all.geo.json";
