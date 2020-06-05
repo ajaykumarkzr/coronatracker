@@ -1,0 +1,242 @@
+{
+    "stateids": [
+        {
+            "name":"Puducherry",
+            "id1": "IN.PY",
+            "id2": "PY",
+            "id3": "in-py",
+            "id4": "py"
+        },
+        {
+            "name":"Lakshadweep",
+            "id1": "IN.LD",
+            "id2": "LD",
+            "id3": "in-ld",
+            "id4": "ld"
+        },
+        {
+            "name":"West Bengal",
+            "id1": "IN.WB",
+            "id2": "WB",
+            "id3": "in-wb",
+            "id4": "wb"
+        },
+        {
+            "name":"Orissa",
+            "id1": "IN.OR",
+            "id2": "OR",
+            "id3": "in-or",
+            "id4": "or"
+        },
+        {
+            "name":"Bihar",
+            "id1": "IN.BR",
+            "id2": "BR",
+            "id3": "in-br",
+            "id4": "br"
+        },
+        {
+            "name":"Sikkim",
+            "id1": "IN.SK",
+            "id2": "SK",
+            "id3": "in-sk",
+            "id4": "sk"
+        },
+        {
+            "name":"Chhattisgarh",
+            "id1": "IN.CT",
+            "id2": "CT",
+            "id3": "in-ct",
+            "id4": "ct"
+        },
+        {
+            "name":"Tamil Nadu",
+            "id1": "IN.TN",
+            "id2": "TN",
+            "id3": "in-tn",
+            "id4": "tn"
+        },
+        {
+            "name":"Madhya Pradesh",
+            "id1": "IN.MP",
+            "id2": "MP",
+            "id3": "in-mp",
+            "id4": "mp"
+        },
+        {
+            "name":"Gujarat",
+            "id1": "IN.2984",
+            "id2": "GJ",
+            "id3": "in-2984",
+            "id4": "gj"
+        },
+        {
+            "name":"Goa",
+            "id1": "IN.GA",
+            "id2": "GA",
+            "id3": "in-ga",
+            "id4": "ga"
+        },
+        {
+            "name":"Nagaland",
+            "id1": "IN.NL",
+            "id2": "NL",
+            "id3": "in-nl",
+            "id4": "nl"
+        },
+        {
+            "name":"Manipur",
+            "id1": "IN.MN",
+            "id2": "MN",
+            "id3": "in-mn",
+            "id4": "mn"
+        },
+        {
+            "name":"Arunachal Pradesh",
+            "id1": "IN.AR",
+            "id2": "AR",
+            "id3": "in-ar",
+            "id4": "ar"
+        },
+        {
+            "name":"Mizoram",
+            "id1": "IN.MZ",
+            "id2": "",
+            "id3": "in-mz",
+            "id4": ""
+        },
+        {
+            "name":"Tripura",
+            "id1": "IN.TR",
+            "id2": "TR",
+            "id3": "in-tr",
+            "id4": "tr"
+        },
+        {
+            "name":"Daman and Diu",
+            "id1": "IN.3464",
+            "id2": "DD",
+            "id3": "in-3464",
+            "id4": "dd"
+        },
+        {
+            "name":"Delhi",
+            "id1": "IN.DL",
+            "id2": "DL",
+            "id3": "in-dl",
+            "id4": "dl"
+        },
+        {
+            "name":"Haryana",
+            "id1": "IN.HR",
+            "id2": "HR",
+            "id3": "in-hr",
+            "id4": "hr"
+        },
+        {
+            "name":"Chandigarh",
+            "id1": "IN.CH",
+            "id2": "CH",
+            "id3": "in-ch",
+            "id4": "ch"
+        },
+        {
+            "name":"Himachal Pradesh",
+            "id1": "IN.HP",
+            "id2": "HP",
+            "id3": "in-hp",
+            "id4": "hp"
+        },
+        {
+            "name":"Jammu and Kashmir",
+            "id1": "IN.JK",
+            "id2": "JK",
+            "id3": "in-jk",
+            "id4": "jk"
+        },
+        {
+            "name":"Kerala",
+            "id1": "IN.KL",
+            "id2": "KL",
+            "id3": "in-kl",
+            "id4": "kl"
+        },
+        {
+            "name":"Karnataka",
+            "id1": "IN.KA",
+            "id2": "KA",
+            "id3": "in-ka",
+            "id4": "ka"
+        },
+        {
+            "name":"Dadra and Nagar Haveli",
+            "id1": "IN.DN",
+            "id2": "DN",
+            "id3": "in-dn",
+            "id4": "dn"
+        },
+        {
+            "name":"Maharashtra",
+            "id1": "IN.MH",
+            "id2": "MH",
+            "id3": "in-mh",
+            "id4": "mh"
+        },
+        {
+            "name":"Assam",
+            "id1": "IN.AS",
+            "id2": "AS",
+            "id3": "in-as",
+            "id4": "as"
+        },
+        {
+            "name":"Andhra Pradesh",
+            "id1": "IN.AP",
+            "id2": "AP",
+            "id3": "in-ap",
+            "id4": "ap"
+        },
+        {
+            "name":"Meghalaya",
+            "id1": "IN.ML",
+            "id2": "ML",
+            "id3": "in-ml",
+            "id4": "ml"
+        },
+        {
+            "name":"Punjab",
+            "id1": "IN.PB",
+            "id2": "PB",
+            "id3": "in-pb",
+            "id4": "pb"
+        },
+        {
+            "name":"Rajasthan",
+            "id1": "IN.RJ",
+            "id2": "RJ",
+            "id3": "in-rj",
+            "id4": "rj"
+        },
+        {
+            "name":"Uttar Pradesh",
+            "id1": "IN.UP",
+            "id2": "UP",
+            "id3": "in-up",
+            "id4": "up"
+        },
+        {
+            "name":"Uttaranchal",
+            "id1": "IN.UT",
+            "id2": "UT",
+            "id3": "in-ut",
+            "id4": "ut"
+        },
+        {
+            "name":"Jharkhand",
+            "id1": "IN.JH",
+            "id2": "JH",
+            "id3": "in-jh",
+            "id4": "jh"
+        }
+    ]
+}
