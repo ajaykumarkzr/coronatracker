@@ -183,19 +183,31 @@ export default function App() {
   }).catch(error => {
     setErr({errorMessage:error.message})
   })
-  },[])
 
-  useEffect(() => {
-    let isSubscribed1 = true;
-    Axios.get('https://api.covid19india.org/data.json').then(res => {
-      isSubscribed1 ? setTotalCases(res.data.statewise[0]) : setTotalCases([]);
-    }).catch(errors => {
-      console.log(errors)
-    })
-    return() => {
-      isSubscribed1 = false;
-    };
-  },[])
+  let isSubscribed1 = true;
+  Axios.get('https://api.covid19india.org/data.json').then(res => {
+    isSubscribed1 ? setTotalCases(res.data.statewise[0]) : setTotalCases([]);
+  }).catch(errors => {
+    console.log(errors)
+  })
+  return() => {
+    isSubscribed1 = false;
+  };
+
+  },[stateid])
+
+  
+  // useEffect(() => {
+  //   let isSubscribed1 = true;
+  //   Axios.get('https://api.covid19india.org/data.json').then(res => {
+  //     isSubscribed1 ? setTotalCases(res.data.statewise[0]) : setTotalCases([]);
+  //   }).catch(errors => {
+  //     console.log(errors)
+  //   })
+  //   return() => {
+  //     isSubscribed1 = false;
+  //   };
+  // },[])
 
 
 
